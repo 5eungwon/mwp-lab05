@@ -1,0 +1,32 @@
+# IDE 개인 설정
+.idea/
+.vscode/
+*.iml
+
+# Python 캐시 및 가상 환경
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Gradle / Kotlin 캐시 및 Android 빌드 결과물
+.gradle/
+.kotlin/
+**/build/
+*.apk
+*.aab
+
+# 컴퓨터별 Android SDK 경로
+local.properties
+
+# 서명 키 및 로컬 비밀 설정
+*.jks
+*.keystore
+keystore.properties
+.env
+.env.*
+!.env.example
+
+# macOS 임시 파일
+.DS_Store

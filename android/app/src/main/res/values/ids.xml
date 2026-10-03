@@ -1,0 +1,9 @@
+<resources>
+    <item name="first" type="id" />
+    <item name="second" type="id" />
+    <item name="operators" type="id" />
+    <item name="add" type="id" />
+    <item name="subtract" type="id" />
+    <item name="multiply" type="id" />
+    <item name="divide" type="id" />
+</resources>
